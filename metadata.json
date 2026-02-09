@@ -1,0 +1,7 @@
+{
+  "name": "BLE Audio & Motor Tool",
+  "description": "A production-grade Android application for streaming PCM audio and motor control data to an ESP32 via BLE, featuring real-time DSP for LED brightness synchronization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
